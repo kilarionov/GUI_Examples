@@ -28,3 +28,10 @@ Cody Prescord, Packt Publishing
 Noel Rappin, Robin Dunn, Manning
 
 3) https://wxpython.org/Phoenix/docs/html/index.html
+
+4) wxGlade GUIs runs on C++, XRC, Lisp, Perl, Python.
+
+Regars,
+Kiril Ilarionov,
+https://www.facebook.com/kiril.ilarionov
+
